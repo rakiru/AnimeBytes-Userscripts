@@ -3,8 +3,9 @@
 // @description   Hide posts made by ignored users on AnimeBytes
 // @author        rakiru
 // @include       https://animebytes.tv/forums.php?*
-// @version       1.0
+// @version       1.1
 // @updateURL     https://raw.github.com/rakiru/AnimeBytes-Userscripts/master/animebytes-ignore.user.js
+// @require       http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js
 // @icon          https://animebytes.tv/favicon.ico
 // ==/UserScript==
 
