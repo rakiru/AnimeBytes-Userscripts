@@ -4,7 +4,7 @@
 // @author        rakiru
 // @include       https://animebytes.tv/forums.php?*
 // @version       1.0
-// @updateURL     https://raw.github.com/rakiru/AnimeBytes-Userscripts./master/animebytes-ignore.user.js
+// @updateURL     https://raw.github.com/rakiru/AnimeBytes-Userscripts/master/animebytes-ignore.user.js
 // @icon          https://animebytes.tv/favicon.ico
 // ==/UserScript==
 
